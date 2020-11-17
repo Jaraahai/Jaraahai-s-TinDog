@@ -29,6 +29,7 @@ p {
 .title-image {
   transform: rotate(25deg);
   position: absolute;
+  width: 60%;
 }
 
 .container-fluid {
@@ -108,6 +109,7 @@ p {
 #testimonials {
   background-color: #ff4c68;
   text-align: center;
+  position: relative;
 }
 
 .carousel-item {
